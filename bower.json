@@ -5,7 +5,7 @@
     "cdll <cd234350150@gmail.com>"
   ],
   "description": "javascript loader",
-  "main": 'dist/import.min.js',
+  "main": "dist/import.min.js",
   "moduleType": [],
   "keywords": [
     "import",
