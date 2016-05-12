@@ -1,0 +1,25 @@
+{
+  "name": "import",
+  "homepage": "https://github.com/cdll/import",
+  "authors": [
+    "cdll <cd234350150@gmail.com>"
+  ],
+  "description": "javascript loader",
+  "main": 'dist/import.min.js',
+  "moduleType": [],
+  "keywords": [
+    "import",
+    "import.js",
+    "importjs",
+    "javascript",
+    "loader"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
